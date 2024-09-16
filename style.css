@@ -342,22 +342,24 @@ body {
   
 .ammenities-section {
   margin-top: 10rem;
+  border: 4px solid black;
 }
 
-.ammenities-container {
+.ammenities{
   padding: 2rem;
   display: flex;
   gap: 6rem;
   justify-content: center;
   flex-wrap: wrap;
   margin-top: 5rem;
+  border: 3px solid greenyellow;
 }
 
-.amenities{
+/* .amenities{
   display: flex;
   gap: 2rem;
   flex-wrap: wrap;
-}
+} */
 
 .ammenities-card {
   width: 50rem;
