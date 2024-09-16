@@ -351,8 +351,12 @@ body {
   justify-content: center;
   flex-wrap: wrap;
   margin-top: 5rem;
-  border-radius: 1px solid
-  red;
+}
+
+.amenities{
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
 }
 
 .ammenities-card {
@@ -360,10 +364,12 @@ body {
 }
 
 .ammenities-image {
-  width: 50%;
+  width: 40%;
   height: 25rem;
-  
- 
+}
+
+.ammenities-card img{
+  width: 100%;
 }
 
 .ammenities-details {
