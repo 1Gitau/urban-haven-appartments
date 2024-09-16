@@ -269,7 +269,7 @@ body {
   }
   .room-card {
     width: 35rem;
-    background-color: var(--color-primary-light);
+    background-color:cornflowerblue;
     border-radius: 10px;
     overflow: hidden;
   }
