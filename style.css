@@ -203,7 +203,7 @@ body {
   
   .about-text {
     line-height: 1.7;
-    color: var(--color-grey-light);
+    color:black;
     margin-top: 2rem;
    
   }
